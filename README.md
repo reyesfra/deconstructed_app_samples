@@ -1,4 +1,4 @@
-windows_app
-===========
+Deconstructed Application Samples
+=========================
 
-A fake Windows Phone App for a prospective client app that is using Windows Phone Apps with Deconstructed.
+Sample applications, web based, that represent mobile apps and regular browser apps.
